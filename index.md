@@ -11,27 +11,35 @@ This page is created using **Markdown only** and hosted via GitHub Pages.
 I have four cats, each with their own personality:
 
 ### Shura
+![Shura](Images/Shura.JPG)
+
 - Personality: crumpy looking but affectionate
 - Favorite activity: sleeping on router, playing
 - Fun fact: She HAS to go to the toilet with you otherwise she'll meow sadly behind the door
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Gin
+![Gin](Images/Gin.jpg)
+
 - Personality: Dumb but cute
 - Favorite activity: Staring into the distance
 - Fun fact: He NEEDS to sit and sleep in every box
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Ren
+![Ren](Images/Ren.jpg)
+
 - Personality: Lazy and bit of a scaredy-cat
 - Favorite activity: Eating and playing
 - Fun fact: Despite being youngest of the cats, she's the largest
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Vili
+![Vili](Images/Vili.jpg)
+
 - Personality: Loud
 - Favorite activity: Snack time
 - Fun fact: Oldest
