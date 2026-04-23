@@ -17,7 +17,7 @@ I have four cats, each with their own personality:
 - Favorite activity: sleeping on router, playing
 - Fun fact: She HAS to go to the toilet with you otherwise she'll meow sadly behind the door
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Gin
 ![Gin](Images/Gin.jpg)
@@ -26,7 +26,7 @@ I have four cats, each with their own personality:
 - Favorite activity: Staring into the distance
 - Fun fact: He NEEDS to sit and sleep in every box
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Ren
 ![Ren](Images/Ren.jpg)
@@ -35,7 +35,7 @@ I have four cats, each with their own personality:
 - Favorite activity: Eating and playing
 - Fun fact: Despite being youngest of the cats, she's the largest
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Vili
 ![Vili](Images/Vili.jpg)
