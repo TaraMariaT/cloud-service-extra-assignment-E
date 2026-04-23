@@ -113,17 +113,10 @@ I have four cats, each with their own personality:
 <details>
 <summary>Click to reveal secret cat facts</summary>
 
-<p>
-
-- Shura is secretly the boss.
-
-- Gin has two braincells fighting for 3rd place.
-
-- Ren is large and in charge.
-
+- Shura is secretly the boss.  
+- Gin has two braincells fighting for 3rd place.  
+- Ren is large and in charge.  
 - Vili screams for snacks like it's a full-time job.
-
-</p>
 
 </details>
 
