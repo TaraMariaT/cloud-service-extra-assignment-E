@@ -86,3 +86,5 @@ All cats approve this website. Probably.
 ## Additional info
 
 This page was made as a part of OAMK Cloud Services Course.
+
+Thanks for visiting!
