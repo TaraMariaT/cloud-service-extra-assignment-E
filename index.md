@@ -12,7 +12,7 @@ This page is created using **Markdown only** and hosted via GitHub Pages.
 - [Cat statistics](#cat-statistics)
 - [Cat maintenance checklist](#cat-maintenance-checklist)
 - [Daily cat behavior log](#daily-cat-behavior-log)
-- [Cat lore](#cat-lore)
+- [Official cat rules of the house](#official-rules)
 - [Secret cat facts](#secret-cat-facts)
 - [Useful cat resources](#useful-cat-resources)
 - [Markdown features used](#markdown-features-used)
@@ -96,12 +96,14 @@ I have four cats, each with their own personality:
 
 ---
 
-<a id="cat-lore"></a>
-## 📖 Cat lore
+<a id="official-rules"></a>
+## 📜 Official cat rules of the house
 
-Once upon a time, four cats moved in.  
-The humans thought they owned the apartment.  
-They were wrong.
+1. Humans are furniture with food access
+2. Boxes must be investigated immediately
+3. Any closed door is a personal insult
+4. Keyboard = warm sleeping spot
+5. 3 AM zoomies are mandatory
 
 ---
 
@@ -113,9 +115,12 @@ They were wrong.
 
 <p>
 
-- Shura is secretly the boss.  
-- Gin has two braincells fighting for 3rd place.  
-- Ren is large and in charge.  
+- Shura is secretly the boss.
+
+- Gin has two braincells fighting for 3rd place.
+
+- Ren is large and in charge.
+
 - Vili screams for snacks like it's a full-time job.
 
 </p>
