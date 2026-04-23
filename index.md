@@ -5,17 +5,23 @@ Welcome to my personal GitHub Pages site dedicated to my four cats.
 This page is created using **Markdown only** and hosted via GitHub Pages.
 
 ---
+
+<a id="quick-navigation"></a>
 ## 📌 Quick navigation
 - [Meet my cats](#meet-my-cats)
-- [Cat statistics](#cat-statistics-totally-scientific)
+- [Cat statistics](#cat-statistics)
 - [Cat maintenance checklist](#cat-maintenance-checklist)
 - [Daily cat behavior log](#daily-cat-behavior-log)
 - [Cat lore](#cat-lore)
+- [Secret cat facts](#secret-cat-facts)
 - [Useful cat resources](#useful-cat-resources)
-- [Final note](#-final-note)
+- [Markdown features used](#markdown-features-used)
+- [Final note](#final-note)
+- [Additional info](#additional-info)
 
 ---
 
+<a id="meet-my-cats"></a>
 ## 🐾 Meet my cats
 
 I have four cats, each with their own personality:
@@ -27,7 +33,7 @@ I have four cats, each with their own personality:
 - Favorite activity: sleeping on router, playing
 - Fun fact: She HAS to go to the toilet with you otherwise she'll meow sadly behind the door
 
-🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Gin
 ![Gin](Images/Gin.jpg)
@@ -36,7 +42,7 @@ I have four cats, each with their own personality:
 - Favorite activity: Staring into the distance
 - Fun fact: He NEEDS to sit and sleep in every box
 
-🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Ren
 ![Ren](Images/Ren.jpg)
@@ -45,7 +51,7 @@ I have four cats, each with their own personality:
 - Favorite activity: Eating and playing
 - Fun fact: Despite being youngest of the cats, she's the largest
 
-🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Vili
 ![Vili](Images/Vili.jpg)
@@ -56,7 +62,8 @@ I have four cats, each with their own personality:
 
 ---
 
-## Cat statistics (totally scientific)
+<a id="cat-statistics"></a>
+## 📊 Cat statistics (totally scientific)
 
 | Cat | Energy level | Cuteness | Chaos factor |
 |-----|-------------|----------|--------------|
@@ -67,7 +74,8 @@ I have four cats, each with their own personality:
 
 ---
 
-## Cat maintenance checklist
+<a id="cat-maintenance-checklist"></a>
+## 🧼 Cat maintenance checklist
 
 - [x] Feed cats
 - [x] Clean litter box
@@ -76,6 +84,7 @@ I have four cats, each with their own personality:
 
 ---
 
+<a id="daily-cat-behavior-log"></a>
 ## 🌙 Daily cat behavior log
 
 > "Cats are mysterious creatures that pretend they don’t care, but secretly rule the house."
@@ -87,16 +96,20 @@ I have four cats, each with their own personality:
 
 ---
 
-## Cat lore
+<a id="cat-lore"></a>
+## 📖 Cat lore
 
-Once upon a time, four cats moved in.
-The humans thought they owned the apartment.
+Once upon a time, four cats moved in.  
+The humans thought they owned the apartment.  
 They were wrong.
 
 ---
 
+<a id="secret-cat-facts"></a>
+## 🔍 Secret cat facts
+
 <details>
-<summary>🔍 Secret cat facts (click to open)</summary>
+<summary>Click to reveal secret cat facts</summary>
 
 - Shura is secretly the boss.
 - Gin has two braincells fighting for 3rd place.
@@ -107,30 +120,38 @@ They were wrong.
 
 ---
 
-## Useful cat resources
+<a id="useful-cat-resources"></a>
+## 🔗 Useful cat resources
 
 - [Wikipedia: Cat](https://en.wikipedia.org/wiki/Cat)
 - [The International Cat Association](https://tica.org/)
 
 ---
 
+<a id="markdown-features-used"></a>
 ## 📝 Markdown features used in this project
 
-- # Headings
-- Lists (-)
+- Headings (`#`, `##`, `###`)
+- Lists (`-`)
 - Tables
-- Blockquotes (>)
-- Emphasis (**bold text**)
-- Structured sections
+- Blockquotes (`>`)
+- Emphasis (`**bold text**`)
+- Images
+- Custom navigation links
+- Collapsible section (`<details>`)
 
 ---
 
+<a id="final-note"></a>
 ## ✅ Final note
 
 All cats approve this website. Probably.
 
+---
+
+<a id="additional-info"></a>
 ## ℹ️ Additional info
 
-This page was made as a part of OAMK Cloud Services Course.
+This page was made as a part of **OAMK Cloud Services Course**.
 
 Thanks for visiting!
