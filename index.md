@@ -118,6 +118,8 @@ They were wrong.
 
 </details>
 
+Cats are ~~innocent~~ suspicious.
+
 ---
 
 <a id="useful-cat-resources"></a>
@@ -155,3 +157,7 @@ All cats approve this website. Probably.
 This page was made as a part of **OAMK Cloud Services Course**.
 
 Thanks for visiting!
+
+---
+
+_Last updated: 2026-04-23_
